@@ -1,20 +1,20 @@
 body {
-    color: rgb(212, 212, 212);
-    background: rgb(79, 112, 79);
+    color: rgb(192, 184, 170);
+    background: rgb(156, 120, 65);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(85, 136, 55);
+    border-bottom: solid 2px rgb(209, 196, 83);
     padding: 20px;
     font-size: 32px;
     color: rgb(0, 0, 0);
 }
 
 .chamada {
-    background: rgb(54, 45, 36);
+    background: rgb(83, 74, 44);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
